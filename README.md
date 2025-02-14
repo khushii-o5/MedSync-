@@ -56,7 +56,7 @@ MedSync+ is built with cutting-edge technology for seamless performance:
 - **Syncs with health records** for seamless appointment tracking and follow-ups.
 
 ### 🆘 **SOS Button**
-- **Alert your 2 emergency contacts that you need immediate help
+- Alert your 2 emergency contacts that you need immediate help
 
 ## ⚡ Get Started Now!
 
