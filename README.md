@@ -1,4 +1,4 @@
-# MedSync-
+
 # MedSync+: Transforming Healthcare & Pet Wellness with Technology
 
 ## 🚀 Bridging the Gap in Patient & Pet Care
