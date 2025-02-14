@@ -67,3 +67,5 @@ MedSync+ is built with cutting-edge technology for seamless performance:
 ### 🚀 Shaping the Future of Healthcare!
 
 MedSync+ isn’t just another health app—it’s a **tech-powered solution** designed to revolutionize healthcare accessibility, efficiency, and preventive care. Join us in **reshaping the future of medical support and pet wellness!** 🌍💙
+
+DEMO LINK: https://drive.google.com/file/d/1kxZjtgaCYTSEaDaJCAlNqCYVeIn4CqOC/view
